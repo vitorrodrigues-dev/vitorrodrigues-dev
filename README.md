@@ -1,16 +1,22 @@
-## Hi there 👋
+# Vitor Rodrigues
 
-<!--
-**vitorrodrigues-dev/vitorrodrigues-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ADS @ FIAP · Java, Python/Flask, SQL**
 
-Here are some ideas to get you started:
+Construo sistemas de gestão para pequenos negócios.  
+Aberto a estágio remoto em back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack
+
+`Java` · `Python` · `Flask` · `SQL` · `HTML/CSS` · `Git`
+
+### Atualmente
+
+Estudando **Java, SQL e integração com banco de dados**.
+
+Construindo projetos para transformar fundamentos de programação em sistemas aplicáveis a problemas reais.
+
+---
+
+[Portfolio](https://vitor-portfolio-lcqa.vercel.app) · [LinkedIn](https://www.linkedin.com/in/vitor-rodrigues-da-silva/)
