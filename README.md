@@ -1,4 +1,3 @@
-# Vitor Rodrigues
 
 **ADS @ FIAP · Java, Python/Flask, SQL**
 
